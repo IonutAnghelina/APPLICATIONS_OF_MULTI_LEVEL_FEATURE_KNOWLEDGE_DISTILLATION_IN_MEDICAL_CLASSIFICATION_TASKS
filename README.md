@@ -1,1 +1,3 @@
 # APPLICATIONS_OF_MULTI_LEVEL_FEATURE_KNOWLEDGE_DISTILLATION_IN_MEDICAL_CLASSIFICATION_TASKS
+
+https://github.com/Omid-Nejati/MedViT - should be installed inside the repo
